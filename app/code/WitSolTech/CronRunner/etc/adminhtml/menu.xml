@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
+    <menu>
+        <add id="WitSolTech_CronRunner::content_elements" title="WitSol Cron Runner" module="WitSolTech_CronRunner" sortOrder="20"  resource="WitSolTech_CronRunner::content_elements" />
+        <add id="WitSolTech_CronRunner::command" title="Run Cron" module="WitSolTech_CronRunner" sortOrder="40" parent="WitSolTech_CronRunner::content_elements" action="cronrunner/index/index" resource="WitSolTech_CronRunner::command"/>
+    </menu>
+</config>
