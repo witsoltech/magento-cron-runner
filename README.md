@@ -25,3 +25,23 @@ php bin/magento module:enable WitSol_CronRunner
 php bin/magento setup:upgrade
 php bin/magento setup:di:compile
 php bin/magento setup:static-content:deploy -f
+```
+### Company's Contact Details
+
+- GitHub: [@witsoltech](https://github.com/witsoltech)
+- LinkedIn: [WitSol Technologies](https://www.linkedin.com/company/witsoltech)
+- Facebook: [WitSol Technologies](https://www.facebook.com/company/witsoltech)
+- Instagram: [WitSol Technologies](https://www.instagram.com/company/witsoltech)
+- Email: [admin@witsoltech.com](mailto:admin@witsoltech.com)
+- Phone Number: +923404574874
+- WhatsApp: [+923404574874](https://wa.me/923404574874)
+  
+### Developer's Contact Details
+
+- GitHub: [@Mrabdulhannan](https://github.com/Mrabdulhannan)
+- LinkedIn: [Abdul Hannan Danish](https://www.linkedin.com/in/abdul-hannan-danish)
+- Email: [mrahdanish@email.com](mailto:mrahdanish@email.com)
+- Phone Number: +923061318400
+- WhatsApp: [+923061318400](https://wa.me/923061318400)
+
+Feel free to explore our repositories and reach out if you'd like to collaborate, have questions, or just want to connect. I'm excited to share my journey in web development with the GitHub community!
